@@ -1,9 +1,3 @@
----
-title: Scoring Chance Trends and Goaltending Performance
-date: 2023-06-28
----
-
-
 Goaltending is voodoo. It’s a phrase that is thrown around in hockey circles, regardless of if the focus is on advanced analytics, or based on people strictly using the eye test. It gets boiled down to a relatively simple fact; goaltending performance in the NHL is inconsistent year-to-year. A classic example that often gets brought up is the curious case of Carter Hart. Hart, the first goalie taken in the 2016 NHL draft, broke into the league as a 20-year-old, and put up a 16-13-1 record on a .917 save percentage in 31 games played. The next year, Hart played in 43 games, amassing 24 wins on his way to a .914 save percentage and 2.42 goals against average. By all traditional measurement standards, the Flyers had found a starting goalie before he even turned 23. However, what happened after the 2019-2020 season, as the world returned from a significant sport interruption, is where things took a turn. Looking at the graph below, you’ll first see Hart’s goals saved above expected (GSAE), a measure which tells us how a goaltender performs relative to a league average goaltender. In simplest terms, each shot a goalie faces is given an expected goal value (for example, a certain shot that goes in on average 10% of the time, is given an expected goal value of 0.1 goals). If you stop more than you’re expected to, your GSAE is positive. Stop less than you’re expected to, and you find yourself in the negative quickly.
 
 ![image](https://github.com/bcsiernik/blog/assets/72635686/4ab37eaa-2c85-47ce-8428-1a69c6597403)
